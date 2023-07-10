@@ -24,7 +24,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hladchenko&" alt="hladchenko" /></p>
 
+<h2>Codewars</h2>
+
 [![codewars](https://www.codewars.com/users/rock5s/badges/large)](https://www.codewars.com/users/rock5s)
+
+<h2>LeetCode</h2>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hladchenko&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
