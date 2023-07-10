@@ -20,9 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hladchenko&show_icons=true&locale=en&layout=compact" alt="hladchenko" /></p>
 <br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hladchenko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hladchenko" /></a><a href="https://ko-fi.com/hladchenko"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hladchenko" /></a></p><br><br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hladchenko&show_icons=true&locale=en" alt="hladchenko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hladchenko&" alt="hladchenko" /></p>
@@ -30,5 +27,8 @@
 [![codewars](https://www.codewars.com/users/rock5s/badges/large)](https://www.codewars.com/users/rock5s)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hladchenko&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hladchenko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hladchenko" /></a><a href="https://ko-fi.com/hladchenko"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hladchenko" /></a></p><br><br>
 
 
