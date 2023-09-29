@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rugladchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rugladchenko" height="30" width="40" /></a>
 <a href="https://instagram.com/hladchenko_com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hladchenko_com" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hladchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hladchenko" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hladchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hladchenko" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hladchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hladchenko" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hladchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hladchenko" height="30" width="40" /></a>
 </p>
