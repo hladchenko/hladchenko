@@ -32,7 +32,4 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hladchenko&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hladchenko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hladchenko" /></a><a href="https://ko-fi.com/hladchenko"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hladchenko" /></a></p><br><br>
-
 
