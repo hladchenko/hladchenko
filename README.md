@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
-<h3 align="center">A passionate software developer from Ukraine</h3>
+<h3 align="center">Practice makes perfect, so let's write some code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hladchenko&label=Profile%20views&color=0e75b6&style=flat" alt="hladchenko" /> </p>
 
